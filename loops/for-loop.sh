@@ -8,3 +8,5 @@ for i in $(seq 1 $value);
 do echo ${cards[RANDOM%${#cards[@]}]};
 
 done
+# `{cards[RANDOM%${#cards[@]}]} ` command randomly selects values from `cards`
+
