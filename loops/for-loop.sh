@@ -1,3 +1,4 @@
+#Ezra is testing and modifyinbg Jorge's shell file
 #for-loop example
 #we will be creating a program that "deals" values at random
 #!/bin/bash
