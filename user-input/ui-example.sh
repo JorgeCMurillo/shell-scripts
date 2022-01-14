@@ -2,4 +2,5 @@
 echo "what is your name"
 read name
 echo "Hello $name."
-#the read command requests user input, we use te `$` to recall the variable 
+#the read command prompts user to input something, use $ to recall the variable established by read
+
